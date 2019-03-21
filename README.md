@@ -8,11 +8,11 @@ starlight 项目的主要后台API系统
 * [auth](auth/README.md) 认证服务，提供账号的管理和认证
 * [account](account/README.md) 用户组（即租户）的管理
 * [app](app/README.md) 应用管理
-* [hpcres] HPC 资源调用
-* [job]() 系统作业管理
-* [stardust]() 星光积分管理
-* [ticket]() 用户工单系统
-* [yubaaba]() 用户机时管理系统
+* hpcres HPC 资源调用
+* job 系统作业管理
+* stardust 星光积分管理
+* ticket 用户工单系统
+* yubaaba 用户机时管理系统
 
 部分服务目前【应】只提供内部／管理员调用, 见内部说明。 
 
